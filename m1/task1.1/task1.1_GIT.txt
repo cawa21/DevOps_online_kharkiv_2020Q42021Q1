@@ -1,0 +1,29 @@
+panda@panda-X555LB:~/devops/DevOps_online_kharkiv_2020Q42021Q1/m1/task1.1$ git reflog 
+0ed4f15 (HEAD -> main, origin/main, origin/HEAD) HEAD@{0}: commit (merge): Merge branch 'develop' into main
+ into main
+0ed4f15 (HEAD -> main, origin/main, origin/HEAD) HEAD@{0}: commit (merge): Merge branch 'develop'
+ into main
+68f9500 HEAD@{1}: checkout: moving from develop to main
+c247aa1 (origin/develop, develop) HEAD@{2}: commit (merge): Merge branch 'styles' into develop
+3b16036 HEAD@{3}: commit (merge): Merge branch 'images' into develop
+afc83c4 HEAD@{4}: checkout: moving from develop to develop
+afc83c4 HEAD@{5}: checkout: moving from styles to develop
+15cb45a (origin/styles, styles) HEAD@{6}: commit: st
+15f3349 HEAD@{7}: commit: styl
+afc83c4 HEAD@{8}: checkout: moving from styles to styles
+afc83c4 HEAD@{9}: checkout: moving from develop to styles
+afc83c4 HEAD@{10}: checkout: moving from images to develop
+6ef5da0 (origin/images, images) HEAD@{11}: commit: image
+7ae7a09 HEAD@{12}: commit: 123
+24c1db1 HEAD@{13}: checkout: moving from develop to images
+afc83c4 HEAD@{14}: checkout: moving from images to develop
+24c1db1 HEAD@{15}: checkout: moving from main to images
+68f9500 HEAD@{16}: commit: index
+83f22f1 HEAD@{17}: checkout: moving from develop to main
+afc83c4 HEAD@{18}: commit: 1
+83f22f1 HEAD@{19}: checkout: moving from main to develop
+83f22f1 HEAD@{20}: checkout: moving from develop to main
+83f22f1 HEAD@{21}: checkout: moving from main to develop
+83f22f1 HEAD@{22}: commit: 1
+0b33063 HEAD@{23}: commit: 1
+24c1db1 HEAD@{24}: clone: from https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1
