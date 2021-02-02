@@ -22,7 +22,7 @@ Password: Generally password is not used, hence it is empty/blank. It can store 
 Group ID (GID): Each user must be assigned a group ID. You can see this number in your /etc/passwd file.
 Group List: It is a list of user names of users who are members of the group. The user names, must be separated by commas.
 
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/2.jp>
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/2.jpg>
 
 
 
@@ -55,16 +55,16 @@ systemd defines no special UIDs beyond what Linux already defines (see above). H
 ![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/3.jpg)
 ![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/4.jpg)
 ![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/5.jpg)
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/6.jp>
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/7.jp>
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/8.jp>
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/9.jp>
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/10.jp>
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/11.jp>
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/12.jp>
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/13.jp>
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/14.jp>
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/15.jp>
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/6.jpg)
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/7.jpg)
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/8.jpg)
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/9.jpg)
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/10.jpg)
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/11.jpg)
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/12.jpg)
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/13.jpg)
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/14.jpg)
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/15.jpg)
 
 
 
