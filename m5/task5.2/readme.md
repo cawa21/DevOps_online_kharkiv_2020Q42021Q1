@@ -22,7 +22,7 @@ Password: Generally password is not used, hence it is empty/blank. It can store 
 Group ID (GID): Each user must be assigned a group ID. You can see this number in your /etc/passwd file.
 Group List: It is a list of user names of users who are members of the group. The user names, must be separated by commas.
 
-![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/2.jpg>
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.2/image/2.jpg)
 
 
 
