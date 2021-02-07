@@ -22,5 +22,5 @@ PART1
 
 PART2
 
-
+![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.3/image/17.jpg)
 ![alt text](https://github.com/cawa21/DevOps_online_kharkiv_2020Q42021Q1/blob/main/m5/task5.3/image/16.jpg)
